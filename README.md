@@ -234,3 +234,6 @@ This repository serves as the official landing page for uniCenta. The software i
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of uniCenta today!**
+
+---
+**Last updated:** 2026-09-09 13:20:47 UTC
